@@ -31,6 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "8000-davidelan-djangoblogpro-vnhdjcxpe61.ws.codeinstitute-ide.net",
+    "django-blog-project-dav-7989d79a7de8.herokuapp.com",
     ".herokuapp.com"
 ]
 
@@ -94,6 +95,7 @@ DATABASES = {
 
 CSRF_TRUSTED_ORIGINS = [
     "https://8000-davidelan-djangoblogpro-vnhdjcxpe61.ws.codeinstitute-ide.net",
+    "https://django-blog-project-dav-7989d79a7de8.herokuapp.com",
     "https://*.herokuapp.com"
 ]
 
